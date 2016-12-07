@@ -1,0 +1,3 @@
+export const LOAD_HERO_BENCHMARK = 'app/HeroDetailsPage/LOAD_HERO_BENCHMARK';
+export const LOAD_HERO_BENCHMARK_SUCCESS = 'app/HeroDetailsPage/LOAD_HERO_BENCHMARK_SUCCESS';
+export const LOAD_HERO_BENCHMARK_ERROR = 'app/HeroDetailsPage/LOAD_HERO_BENCHMARK_ERROR';
